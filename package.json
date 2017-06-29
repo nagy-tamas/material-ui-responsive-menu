@@ -22,8 +22,8 @@
   "dependencies": {},
   "peerDependencies": {
     "react": "15.x",
-    "material-ui": "^0.17.1",
-    "react-measure": "^1.4.6",
+    "material-ui": "^0.18.4",
+    "react-measure": "^2.0.2",
     "react-redux": "^5.0.3",
     "react-tap-event-plugin": "^2.0.1",
     "redux": "^3.6.0"
